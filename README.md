@@ -5,10 +5,10 @@
 <p align="center">一个 Android 应用，集中浏览 B 站、抖音、知乎和微博网页版，过滤已识别的广告和下载推广。</p>
 
 <p align="center">
-  <a href="https://github.com/xPeiPeix/jianlan/releases/download/v0.2.2/jianlan-0.2.2.apk"><strong>下载 Android APK</strong></a>
-  · <a href="https://xpeipeix.github.io/jianlan/">下载页</a>
-  · <a href="https://github.com/xPeiPeix/jianlan/releases/tag/v0.2.2">更新说明</a>
-  · <a href="https://github.com/xPeiPeix/jianlan/issues/new?template=bug_report.yml">反馈问题</a>
+  <a href="https://github.com/peipei-labs/jianlan/releases/download/v0.2.2/jianlan-0.2.2.apk"><strong>下载 Android APK</strong></a>
+  · <a href="https://peipei-labs.github.io/jianlan/">下载页</a>
+  · <a href="https://github.com/peipei-labs/jianlan/releases/tag/v0.2.2">更新说明</a>
+  · <a href="https://github.com/peipei-labs/jianlan/issues/new?template=bug_report.yml">反馈问题</a>
 </p>
 
 ## 现在可以做什么
@@ -25,13 +25,13 @@
 
 当前版本 **0.2.2 · 早期试用**，最低要求 **Android 8.0**。推荐保持系统 Android WebView 为可用的新版本。
 
-1. [下载 APK](https://github.com/xPeiPeix/jianlan/releases/download/v0.2.2/jianlan-0.2.2.apk)，在手机上打开安装。
+1. [下载 APK](https://github.com/peipei-labs/jianlan/releases/download/v0.2.2/jianlan-0.2.2.apk)，在手机上打开安装。
 2. 如果系统询问，允许当前浏览器或文件管理器安装此应用。
 3. 打开简览，选择一个平台开始浏览；需要账号时在网站自己的页面登录。
 
 如果装过之前单独提供的 **0.2.1 调试版**，它与本次发布包的签名不同，需要先卸载旧版。卸载会清除简览内的网站登录状态和设置。本次起的发布版本将沿用同一签名。
 
-安装包与 [SHA256 校验文件](https://github.com/xPeiPeix/jianlan/releases/download/v0.2.2/SHA256SUMS)均在 [GitHub Releases](https://github.com/xPeiPeix/jianlan/releases) 中提供。
+安装包与 [SHA256 校验文件](https://github.com/peipei-labs/jianlan/releases/download/v0.2.2/SHA256SUMS)均在 [GitHub Releases](https://github.com/peipei-labs/jianlan/releases) 中提供。
 
 ## 试用前了解
 
@@ -45,7 +45,7 @@
 
 ## 发现问题
 
-在 App 首页或右上角菜单点 **反馈问题**，描述操作步骤，再将反馈粘贴到 [GitHub Issues](https://github.com/xPeiPeix/jianlan/issues/new?template=bug_report.yml)。也可以直接在试用帖里回复。
+在 App 首页或右上角菜单点 **反馈问题**，描述操作步骤，再将反馈粘贴到 [GitHub Issues](https://github.com/peipei-labs/jianlan/issues/new?template=bug_report.yml)。也可以直接在试用帖里回复。
 
 请说明平台、手机型号、发生问题的操作，以及关闭过滤并刷新后是否恢复。截图先遮住账号等个人信息。优先反馈打不开、无法播放、误隐藏正常内容和漏过的广告。
 
